@@ -4,8 +4,8 @@ Basic building structure with **Apache Maven** for **Java** development.
 
 ## Requirements
 
-- [JDK 8](https://openjdk.org/)
-- [Apache Maven](https://openjdk.org/)
+- [JDK 8](http://openjdk.java.net/)
+- [Apache Maven 3.3.9](https://maven.apache.org/)
 
 ## Building
 
