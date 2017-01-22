@@ -1,4 +1,4 @@
-# MVN Java Building
+# Maven Java Building
 
 Basic building structure with **Apache Maven** for **Java** development.
 
@@ -15,9 +15,9 @@ The first time just use:
 
 For develop cycle use:
 
-`$ ./mvnw clean package`
+`$ ./mvnw clean package exec:exec`
 
-For execute use:
+For execute in standalone use:
 
-`$ java -jar target/app.jar`
+`$ java -jar target/mvn-java-building.jar`
 
