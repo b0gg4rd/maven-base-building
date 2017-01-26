@@ -20,4 +20,3 @@ For develop cycle use:
 For execute in standalone use:
 
 `$ java -jar target/mvn-java-building.jar`
-
