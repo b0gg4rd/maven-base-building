@@ -18,7 +18,7 @@
   <properties>
     <java.version>1.8</java.version>
     <maven>3.3.9</maven>
-    <main.class>net.coatli.java.Application</main.class>
+    <main.class>net.coatli.java.MvnJavaBuildingApplication</main.class>
     
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.build.jdk.source>${java.version}</project.build.jdk.source>
