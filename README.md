@@ -11,3 +11,4 @@ Basic building structure with **Apache Maven** for **Java** development.
 For execute use:
 
 `$ ./mvnw clean package exec:exec`
+
