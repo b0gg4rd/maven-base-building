@@ -29,7 +29,6 @@
     <exec.maven.plugin.version>1.6.0</exec.maven.plugin.version>
 
     <slf4j.simple.version>1.7.26</slf4j.simple.version>
-    <joda.time.version>2.10.3</joda.time.version>
   </properties>
 
   <dependencies>
@@ -37,11 +36,6 @@
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-simple</artifactId>
       <version>${slf4j.simple.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>joda-time</groupId>
-      <artifactId>joda-time</artifactId>
-      <version>${joda.time.version}</version>
     </dependency>
   </dependencies>
 
